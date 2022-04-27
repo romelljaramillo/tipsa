@@ -1,0 +1,39 @@
+TRANSPORTISTA TIPSA
+Author: eComm360 SL
+Contact: addons@ecomm360.es
+
+-----------------------------------------
+Historic changes for TIPSA Modules
+-----------------------------------------
+NEXT VERSION PROPOSALS
+
+VERSION 17.1.2
+[+] MO : tipsacarrier: Update images to 50 px for Carrier Images
+
+
+VERSION 17.1.1
+[+] MO : tipsacarrier: Added the configuration for TIPSA-10 in selection.
+
+VERSION 17.1.0
+[+] MO : tipsacarrier: Added forcing update in Tipsa shipping table (tipsa_envios) when getting within adminorder hook so we can update the packages.
+[+] MO : tipsacarrier: Checking if phone mobile is completed or not.
+[+] MO : tipsacarrier: Updated ID for TRANSITO value to 2.
+[+] MO : tipsacarrier: Added forced Packages in Admin area.
+[+] MO : tipsacarrier: Updated Version up to 3.2.2 of 1.6.
+
+VERSION 17.0.0
+[+] MO : tipsacarrier: Added Farma carrier option.
+[+] MO : tipsacarrier: Improvment from 1.6 to 1.7 compatibility.
+
+VERSION 3.0.2
+[+] MO : tipsacarrier: Changed order of cron to star by last order created.
+[+] MO : tipsacarrier: Changed order for states and added Incidence State.
+[+] MO : tipsacarrier: Configuration in states saved ok.
+
+VERSION 3.0.1
+[+] MO : tipsacarrier: Update URL HTTP://webservices.tipsa-dinapaq.com:8099/SOAP?service=WebServService
+[+] MO : tipsacarrier: Update Id information for Premium type of carrier.
+[+] MO : tipsacarrier: Updated translations.
+
+VERSION 3.0.0 
+Project: Original release
